@@ -9,5 +9,5 @@ Langkah-langkah :
 4. git clone https://github.com/duckbowl/Gojek2
 5. cd Gojek2
 6. php regis.php
-7. Input no telp (Yg belum terdaftar Gojek)
+7. Input nomor
 8. Done
