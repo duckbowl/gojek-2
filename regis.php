@@ -134,7 +134,6 @@ function claim($token)
 
 echo "\n";
 echo "\e[94m            AUTO REGISTER & CLAIM VOUCHER            \n";
-echo "\e[93m               KONTRAKAN PALAGAN CERIA            \n";
 echo "\n";
 echo "[+] Masukan 62 untuk ID dan 1 untuk US\n";
 echo "[+] Nomor Hp: ";
